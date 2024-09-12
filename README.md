@@ -42,4 +42,4 @@ _**You need the space where the internal charger normally is located!!! This gui
 _**If you have any questions, or you want to know more about star-delta,**_
 _**you can join the star delta discord server here:**_
 [STAR_DELTA DISCORD SERVER](https://discord.gg/KBrA8HTagB)
-
+GERMAN GUIDE ON THE DISCORD SERVER!
